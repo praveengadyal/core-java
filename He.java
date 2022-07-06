@@ -1,5 +1,0 @@
-class He extends Man{
-
-
-
-}

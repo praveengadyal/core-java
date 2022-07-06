@@ -1,5 +1,0 @@
-class TSMC extends SemiConductorManufacturingCompany{
-
-
-
-}
