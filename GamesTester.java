@@ -2,7 +2,7 @@ class GamesTester{
 
 public static void main(String[] args){
 
-Games gs=new Games();
+GamesDTO gs=new GamesDTO();
 gs.setId(467);
 gs.setName("Battleground Mobile India");
 gs.setMode("multiplayer");

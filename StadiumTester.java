@@ -2,7 +2,7 @@ class StadiumTester{
 
 public static void main(String[] args){
 
-Stadium s=new Stadium();
+StadiumDTO s=new StadiumDTO();
 s.setId(448);
 s.setName("sardar vallabhai patel ");
 s.setCity("ahmedabad");

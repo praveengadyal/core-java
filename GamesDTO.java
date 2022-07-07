@@ -1,4 +1,4 @@
-class Games{
+class GamesDTO{
 
 private int id;
 private String name;

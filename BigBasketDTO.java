@@ -1,4 +1,4 @@
-class BigBasket{
+class BigBasketDTO{
 
 private int id;
 private double ratings;

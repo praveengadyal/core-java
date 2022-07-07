@@ -1,4 +1,4 @@
-public class CarryBag{
+public class CarryBagDTO{
 
 public CarryBag(){
 System.out.println("object created");

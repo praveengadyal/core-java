@@ -2,7 +2,7 @@ class NovelTester{
 
 public static void main(String[] args){
 
-Novel n=new Novel();
+NovelDTO n=new NovelDTO();
 n.setId(267);
 n.setName("A Million Thoughts");
 n.setWriter("ASTHA ANAND");

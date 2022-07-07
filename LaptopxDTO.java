@@ -1,8 +1,8 @@
-class Laptopx{
+class LaptopxDTO{
 
 private String series;
 private double size;
-private String color;
+private String color;                
 private String cpu;
 private int hardDisk;
 private int ram;

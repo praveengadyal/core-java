@@ -1,4 +1,4 @@
-class Airport{
+class AirportDTO{
 
 private String name;
 private String type;

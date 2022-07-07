@@ -2,7 +2,7 @@ class NewsPapersTester{
 
 public static void main(String[] args){
 
-NewsPapers np=new NewsPapers();
+NewsPapersDTO np=new NewsPapersDTO();
 np.setId(990);
 np.setName("The Hindu");
 np.setPrice(9);

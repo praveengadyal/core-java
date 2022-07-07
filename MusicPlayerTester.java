@@ -2,7 +2,7 @@ class MusicPlayerTester{
 
 public static void main(String[] args){
 
-MusicPlayer mp=new MusicPlayer();
+MusicPlayerDTO mp=new MusicPlayerDTO();
 mp.setId(128);
 mp.setName("spotify");
 mp.setTotalSongs("82 million");

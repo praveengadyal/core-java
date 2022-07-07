@@ -1,4 +1,4 @@
-class Novel{
+class NovelDTO{
 
 private int id;
 private String name;

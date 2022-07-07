@@ -2,7 +2,7 @@ class WeaponTester{
 
 public static void main(String[] args){
 
-Weapon w=new Weapon();
+WeaponDTO w=new WeaponDTO();
 w.setId(47);
 w.setName("AK-47");
 w.setProducedBy("KALASHNIKOV Concern n Norinco");

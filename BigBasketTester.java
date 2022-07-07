@@ -2,7 +2,7 @@ class BigBasketTester{
 
 public static void main(String[] args){
 
-BigBasket bb=new BigBasket();
+BigBasketDTO bb=new BigBasketDTO();
 bb.setId(973);
 bb.setRatings(4.5);
 bb.setType("online-chain");

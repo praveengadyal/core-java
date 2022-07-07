@@ -3,7 +3,7 @@ class OximeterTester{
 
 public static void main(String[] args){
 
-Oximeter om=new Oximeter();
+OximeterDTO om=new OximeterDTO();
 om.setId(119);
 om.setName("Dr trust");
 om.setPrice(1299);

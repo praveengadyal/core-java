@@ -2,7 +2,7 @@ class AirportTester{
 
 public static void main(String[] args){
 
-Airport a=new Airport();
+AirportDTO a=new AirportDTO();
 a.setName("kempegowda Airport");
 a.setType("International airport");
 a.setLocation("bangalore");

@@ -1,4 +1,4 @@
-class MusicPlayer{
+class MusicPlayerDTO{
 
 private int id;
 private String name;

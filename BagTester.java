@@ -2,7 +2,7 @@ class BagTester{
 
 public static void main(String[] args){
 
-CarryBag carry=new CarryBag();
+CarryBagDTO carry=new CarryBagDTO();
 carry.setName("ABC");
 carry.setPrice(3.00);
 

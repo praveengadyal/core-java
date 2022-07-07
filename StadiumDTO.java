@@ -1,9 +1,9 @@
-class NewsPapers{
+class StadiumDTO{
 
 private int id;
 private String name;
-private int price;
-private String ownedBy;
+private String city;
+private int capacity;
 private String type;
 
 public int getId(){return id;}
@@ -14,13 +14,13 @@ public String getName(){return name;}
 
 public void setName(String name){this.name=name;}
 
-public int getPrice(){return price;}
+public String getCity(){return city;}
 
-public void setPrice(int price){this.price=price;}
+public void setCity(String city){this.city=city;}
 
-public String getOwnedBy(){return ownedBy;}
+public int getCapacity(){return capacity;}
 
-public void setOwnedBy(String ownedBy){this.ownedBy=ownedBy;}
+public void setCapacity(int capacity){this.capacity=capacity;}
 
 public String getType(){return type;}
 

@@ -2,7 +2,7 @@ class LaptopxTester{
 
 public static void main(String[] args ){
 
-Laptopx l=new Laptopx();
+LaptopxDTO l=new LaptopxDTO();
 l.setSeries("vivo book 15");
 l.setSize(39.62);
 l.setColor("silver");

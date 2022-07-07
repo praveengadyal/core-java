@@ -1,4 +1,4 @@
-class Weapon{
+class WeaponDTO{
 
 private int id;
 private String name;

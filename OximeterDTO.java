@@ -1,4 +1,4 @@
-class Oximeter{
+class OximeterDTO{
 
 private int id;
 private String name;
